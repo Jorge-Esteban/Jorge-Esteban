@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there! I'm Jorge Esteban  
 
-<!--
-**Jorge-Esteban/Jorge-Esteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSc (Hons) Information Technology** @ UWE Bristol  
+📊 **Former Data Analyst Trainee** @ Deloitte Consulting  
+💡 Passionate about **data analytics, visualization, and automation**  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Skills  
+- **Languages:** Python, SQL, JavaScript  
+- **Data Tools:** Power BI, Excel, Pandas  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Exploring:** Cloud computing, big data, and machine learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 What I'm Working On  
+- Enhancing my **data engineering** skills  
+- Exploring **cloud platforms** (AWS, Azure)  
+- Building **data-driven projects**  
+
+## 📫 Connect with Me  
+- **LinkedIn:** https://www.linkedin.com/in/jorgeestebangil/
+
+🚀 **Always learning and building cool stuff!**  
