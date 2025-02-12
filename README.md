@@ -5,7 +5,7 @@
 💡 Passionate about **data analytics, visualization, and automation**  
 
 ## 🔧 Technologies & Skills  
-- **Languages:** Python, SQL, JavaScript  
+- **Languages:** Python, SQL, Java
 - **Data Tools:** Power BI, Excel, Pandas  
 - **Web Development:** HTML, CSS, JavaScript  
 - **Exploring:** Cloud computing, big data, and machine learning  
