@@ -2,7 +2,7 @@
 
 🎓 **BSc (Hons) Information Technology** @ UWE Bristol  
 📊 **Former Data Analyst Trainee** @ Deloitte Consulting  
-💡 Passionate about **data analytics, visualization, and automation**  
+💡 Passionate about **data analytics, visualization, and ML**  
 
 ## 🔧 Technologies & Skills  
 - **Languages:** Python, SQL, Java
